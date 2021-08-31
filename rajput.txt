@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is first line code in file by ajay on mumbai srv in master branch
+=======
+This is First line code by ajay on mumbai srv in branch1
+>>>>>>> branch1
