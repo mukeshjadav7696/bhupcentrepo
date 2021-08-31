@@ -1,0 +1,3 @@
+# java and exe file are going to be ignored
+*.java
+*.exe
